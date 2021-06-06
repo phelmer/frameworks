@@ -22,9 +22,17 @@
     "web-components": {
       "tags": []
     },
-    "web-components-e2e": {
-      "tags": [],
-      "implicitDependencies": ["web-components"]
+    "angular": {
+      "tags": []
+    },
+    "react": {
+      "tags": []
+    },
+    "vue": {
+      "tags": []
+    },
+    "vue-old": {
+      "tags": []
     }
   }
 }
