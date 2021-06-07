@@ -5,5 +5,7 @@ module.exports = {
     '<rootDir>/apps/react',
     '<rootDir>/apps/vue',
     '<rootDir>/apps/vue-old',
+    '<rootDir>/apps/express',
+    '<rootDir>/apps/nest',
   ],
 };
